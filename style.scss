@@ -66,14 +66,15 @@ h4 {
 
 p {
   margin: 15px 0;
+  color: $red;
 }
 
 a {
-  color: $blue;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $violet;
   }
 }
 
