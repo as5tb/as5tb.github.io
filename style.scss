@@ -305,6 +305,18 @@ footer {
   background: radial-gradient(red, yellow, green); /* Standard syntax */
 }
 
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
