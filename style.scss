@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $cloud;
   font-weight: bold;
-  text-shadow: 3px 3px 8px $red;
+  text-shadow: 3px 3px 8px $blue;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -138,16 +138,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $red;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $orange;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $orange;
   background: $lightGray;
 }
 
@@ -213,7 +213,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $sunset;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -223,7 +223,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $cloudy;
   font-size: 16px;
 
   @include mobile {
@@ -246,7 +246,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $evening;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -264,7 +264,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $violet;
 }
 
 .posts > .post:last-child {
@@ -275,9 +275,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $blue;
     font-size: 22px;
     font-style: italic;
   }
@@ -296,7 +296,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $green;
 }
 
 footer {
