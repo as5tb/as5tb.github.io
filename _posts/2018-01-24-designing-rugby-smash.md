@@ -62,7 +62,7 @@ published: true
   
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td>I could have been more alert to my mistakes so I could fix them quicker
+  <td>I could have been more alert to my mistakes so I could fix them quicker</td>
   </tr>
  
   <tr>
