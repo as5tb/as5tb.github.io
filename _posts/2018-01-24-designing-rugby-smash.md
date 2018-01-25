@@ -67,7 +67,7 @@ published: true
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
+    <td>I need to a bit more time planning as I could have avoided some of the mistakes if I had thought it through more.</td>
   </tr>
   <tr>
     <td>I need to a bit more time planning as I could have avoided some of the mistakes if I had thought it through more.</td>
