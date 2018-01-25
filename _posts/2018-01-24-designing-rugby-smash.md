@@ -49,30 +49,27 @@ published: true
     <td>Independence</td>
     <td>I independently decided that my background wouldn’t scroll unless I made it a sprite</td>
   </tr>
+  
   <tr>
     <td>Reflecting</td>
     <td>I looked back and decided that my sprites wouldn’t change direction because they were in a forever loop</td>
   </tr>
+  
   <tr>
     <td>Engagement</td>
     <td>I engaged in my lesson by changing some sprites which would have been sprites on their own into clones </td>
   </tr>
+  
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td></td>
+    <td>I could have been more alert to my mistakes so I could fix them quicker
   </tr>
-  <tr>
-    <td>I could have been more alert to my mistakes so I could fix them quicker</td>
-    <td></td>
-  </tr>
+ 
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td>I need to a bit more time planning as I could have avoided some of the mistakes if I had thought it through more.</td>
+    <td>I need to spend a bit more time planning as I could have avoided some of the mistakes if I had thought it through more.</td>
   </tr>
-  <tr>
-    <td>I need to a bit more time planning as I could have avoided some of the mistakes if I had thought it through more.</td>
-    <td></td>
-  </tr>
+ 
 </table>
 
 
